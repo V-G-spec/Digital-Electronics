@@ -17,7 +17,8 @@ terms of resource costs
 
 • Write Verilog code for this counter
 
-### The steps are covered and explained in *Digital-Electronics/Counters/Counters Report VanshGupta.pdf* 
+
+### Explanation to the steps along with K-Maps, explanations, truth tables and output waveforms are compiled in *Digital-Electronics/Counters/Counters Report VanshGupta.pdf*
 
 ## Author
 
