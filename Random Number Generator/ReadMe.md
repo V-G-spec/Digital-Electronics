@@ -35,6 +35,17 @@ Similarly for a dice, a separate decoder would need to be made, along with the n
 
 * 7 Segment LED Display (1 pc)
 
+## Circuit Using Real World Components
+![WhatsApp Image 2020-12-13 at 23 55 13](https://user-images.githubusercontent.com/62442188/121799597-a9011a00-cc4a-11eb-9cb2-bf0d320d41aa.jpeg)
+
+## Truth Table and K-Maps
+![0001](https://user-images.githubusercontent.com/62442188/121799737-5f64ff00-cc4b-11eb-89d3-9ec78405080d.jpg)
+![0002](https://user-images.githubusercontent.com/62442188/121799735-5d9b3b80-cc4b-11eb-81b6-5f675a8360ea.jpg)
+
+
+## Simulations
+The online simulation can be found in *Simulation Vansh Gupta.pdf*
+
 ## References
 https://circuitverse.org - for Simulation
 
@@ -46,9 +57,13 @@ https://en.wikipedia.org/wiki/Random_number_generation#Practical_applications_an
 
 http://theurbanengine.com/blog//linear-feedback-shift-registers
 
-## Author
+## Authors
 
 Vansh Gupta: https://github.com/V-G-spec
+
+Vaibhav Verma
+
+Vardaan Taneja
 
 ## License
 
