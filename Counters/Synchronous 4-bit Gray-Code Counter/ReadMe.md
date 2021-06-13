@@ -17,6 +17,8 @@ terms of resource costs
 
 • Write Verilog code for this counter
 
+### The steps are covered and explained in *Digital-Electronics/Counters/Counters Report VanshGupta.pdf* 
+
 ## Author
 
 Vansh Gupta: https://github.com/V-G-spec
