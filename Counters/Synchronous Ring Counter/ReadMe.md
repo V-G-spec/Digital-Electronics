@@ -9,7 +9,7 @@ Johnson Counter that is covered in class, is an example of a Ring Counter.
 • First, calculate the number of D Flip-Flops required.
 
 • Assign values to the inputs D for each of the Flip-Flops looking at the
-state table (Fig. 1). Note that for the intermediate flip-flops, the
+state table. Note that for the intermediate flip-flops, the
 behaviour is the output of one fed as input to the other. Be careful
 about the input of the MSB of the states.
 
@@ -25,7 +25,7 @@ Question: Does the counter cover all 16 possible states? Try to figure out what
 the counter is trying to do, and how it depends on which state the
 counter starts from.
 
-Answer to this question, along with all the other steps with proper explanation are in *Digital-Electronics/Counters/Counters Report VanshGupta.pdf*
+Answer to this question, along with all the other steps with K-Maps, explanations, truth tables and output waveforms are compiled in *Digital-Electronics/Counters/Counters Report VanshGupta.pdf*
 
 ## Author
 
