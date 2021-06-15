@@ -25,7 +25,7 @@ Question: Does the counter cover all 16 possible states? Try to figure out what
 the counter is trying to do, and how it depends on which state the
 counter starts from.
 
-Answer to this question, along with all the other steps with K-Maps, explanations, truth tables and output waveforms are compiled in *Digital-Electronics/Counters/Counters Report VanshGupta.pdf*
+Answer to this question, along with all the other steps with K-Maps, explanations, truth tables and output waveforms are compiled [In this report](https://github.com/V-G-spec/Digital-Electronics/blob/main/Counters/Counters%20Report%20VanshGupta.pdf)
 
 ## Author
 
